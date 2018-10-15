@@ -1,7 +1,6 @@
 from os.path import join
 import numpy as np
 from constants import *
-import cv2
 from sklearn.model_selection import train_test_split
 
 
