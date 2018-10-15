@@ -10,7 +10,6 @@ from tflearn.layers.normalization import local_response_normalization
 from tflearn.layers.estimator import regression
 from constants import *
 from os.path import isfile, join
-import random
 import sys
 
 
