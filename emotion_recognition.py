@@ -45,7 +45,8 @@ class EmotionRecognition:
             max_checkpoints=1,
             tensorboard_verbose=2
         )
-        self.load_model()
+        self.load_model() #while loading model for testing
+       #self.save_model() ---> to save it while training
 
     def load_saved_dataset(self):
         self.dataset.load_from_save()
