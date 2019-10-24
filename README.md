@@ -44,3 +44,6 @@ $ python3 emotion_recognition.py poc
 ## Paper
 
 [Link](https://github.com/isseu/emotion-recognition-neural-networks/blob/master/paper/Report_NN.pdf)
+
+## Contributor
+[Ayesha Batool](https://github.com/ayeshabatool119)
