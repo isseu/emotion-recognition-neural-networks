@@ -7,7 +7,7 @@ html5lib==0.9999999
 Keras==2.1.5
 Markdown==2.6.11
 numpy==1.14.2
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 pandas==0.22.0
 Pillow==5.1.0
 protobuf==3.5.2.post1
