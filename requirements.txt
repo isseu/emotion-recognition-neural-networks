@@ -6,7 +6,7 @@ grpcio==1.11.0
 html5lib==0.9999999
 Keras==2.1.5
 Markdown==2.6.11
-numpy==1.14.2
+numpy==1.22.0
 opencv-python==3.4.0.12
 pandas==0.22.0
 Pillow==5.1.0
